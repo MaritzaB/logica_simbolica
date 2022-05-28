@@ -45,5 +45,3 @@ b = set()
 
 print("El tipo es: ", type(a), "y está conformado de ", a)
 print("El tipo es: ", type(b), "y está conformado de ", b)
-
-
